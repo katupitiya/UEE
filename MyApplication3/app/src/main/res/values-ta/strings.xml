@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TRANSPORTME</string>
+    <string name="about_us">எங்களை பற்றி</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">முதல் பக்கம்</string>
+    <string name="experience">அனுபவங்கள்</string>
+    <string name="kathabus">பேச்சு</string>
+    <string name="contactus">எங்களை தொடர்பு கொள்ள</string>
+    <string name="communicate">தொடர்பு</string>
+    <string name="share">பகிர்</string>
+    <string name="text1">பகிர்</string>
+    <string name="language">மொழி</string>
+    <string name="settings">அமைப்புகளை</string>
+    <string name="start_h">தொடக்கம்</string>
+    <string name="start">தொடக்கம்</string>
+    <string name="destination_h">இலக்கு</string>
+    <string name="destination">இலக்கு</string>
+    <string name="date_h">தேதி</string>
+    <string name="date">தேதி</string>
+    <string name="search_bus">தேடல் பஸ்கள்</string>
+    <string name="booking">பொது பஸ் முன்பதிவு</string>
+    <string name="service">பிரைவேட் பஸ் முன்பதிவு</string>
+    <string name="sub_title1">                இலங்கை முழுவதும் பஸ் </string>
+    <string name="sub_title2">    ரிசர்வ் செய்ய
+</string>
+    <string name="heading1">எங்களிடமிருந்து உங்கள் டிக்கெட்டுகளை </string>
+    <string name="heading2">வாங்குங்கள் !!!</string>
+    <string-array name="cities">
+        <item>குருநாகல்</item>
+        <item>குருவிட</item>
+        <item>மாலபே</item>
+
+        <item>திருகோணமலை</item>
+        <item></item>
+        <item>யாழ்ப்பாண</item>
+        <item>கண்டி</item>
+        <item>மெட்ரோ</item>
+        <item>காலி</item>
+        <item>அம்பாறை</item>
+        <item>நிட்டம்புவ</item>
+        <item>கொழும்பு</item>
+        <item>கிரிபத்கொட</item>
+        <item>பஸ்யாலை</item>
+        <item>பொலன்னறுவை</item>
+        <item>அனுராதபுரம்</item>
+        <item>தெஹிவளை</item>
+        <item>கல்கிசை</item>
+        <item>மொறட்டுவை</item>
+        <item>கோட்டை</item>
+        <item>நீர்கொழும்பு</item>
+        <item>வவுனியா</item>
+        <item>மட்டக்களப்பு</item>
+        <item>கட்டுநாயக்க</item>
+        <item>தம்புள்ளை</item>
+
+    </string-array>
+    <string name="result">தேடல் முடிவுகள் கிடைக்கவில்லை</string>
+    <string name="requird">இந்த பகுதி அவசியமானது</string>
+    <string name="cno_val">செல்லுபடியாகும் அட்டை எண்ணை உள்ளிடவும்</string>
+    <string name="cvv_val">3 எண்கள் தேவை</string>
+    <string name="my_details">எனது விவரங்கள்</string>
+    <string name="Name">பெயர்</string>
+    <string name="Name_h">பெயர்</string>
+    <string name="Mobile_No">அலைபேசி எண்</string>
+    <string name="Mobile_No_h">அலைபேசி எண்</string>
+    <string name="Passport_NIC_No">பாஸ்போர்ட் / என்ஐசி எண்</string>
+    <string name="Passport_NIC_No_h">பாஸ்போர்ட் / என்ஐசி எண்</string>
+    <string name="Email">மின்னஞ்சல்:</string>
+    <string name="Email_h">மின்னஞ்சல்:</string>
+    <string name="pay_now">இப்போது செலுத்த</string>
+    <string name="payment_details">கட்டண விவரங்கள்</string>
+    <string name="card_no">அட்டை எண்</string>
+    <string name="card_no_h">அட்டை எண்</string>
+    <string name="cvv"> CVV எண்</string>
+    <string name="cvv_h">CVV எண</string>
+    <string name="amount">தொகைக்கு</string>
+
+    <string name="check">நான் விதிமுறைகளை ஒப்புக்கொள்கிறேன்.</string>
+
+    <string name="aboutus">எங்களை பற்றி</string>
+    <string name="aboutus_h">வாடிக்கையாளர் மகிழ்ச்சி எங்கள் வணிகம்!</string>
+    <string name="p1">நாங்கள் இங்கே இருப்பதற்கு நீங்கள் தான் காரணம்.பஸ்ஸீட்.எல்.கே எப்போதும் ஆடம்பர பஸ் முன்பதிவு ஆன்லைனில் சிறந்த தொழில்நுட்ப அனுபவத்தையும்
+           இலங்கை விருந்தோம்பலையும்
+           கலந்த ஒரு சிறந்த அனுபவத்தை
+         உங்களுக்கு வழங்க கடுமையாக முயற்சித்து வருகிறது.</string>
+    <string name="p2">BusSeat.lk என்பது இலங்கையின் முதல் முன்பதிவு மற்றும் முன்பதிவு சேவை வழங்குநராகும், இது பஸ் கால அட்டவணையுடன் முழுமையான தானியங்கி மல்டி-பிளாட்ஃபார்ம் முன்பதிவு இயந்திரத்துடன் உள்ளது.
+ இலங்கை பொது போக்குவரத்தில் செழித்து வளரும் ஒரு நாடு.மேலும் எங்கள் புதுமையான தீர்வுகள் அனைத்து இலங்கை பயணிகளிலும் மற்றும் பயணிகளுக்கு சாதகமான தாக்கத்தை ஏற்படுத்த முடியும்,
+மேலும் அவர்களின் மதிப்பு சேர்க்காத காத்திருப்பு நேரத்தை நீக்குகிறது, இது இனிமேல் அதிக உற்பத்தி மற்றும் திறமையான வழியில் செலவிடப்படலாம்.
+</string>
+
+    <string name="chat_name">பெயர்</string>
+    <string name="chat_email">மின்னஞ்சல்</string>
+    <string name="chat_phone">தொலைபேசி</string>
+    <string name="message">செய்தி</string>
+    <string name="chattext1">அந்நியராக இருக்க வேண்டாம்</string>
+    <string name="chattext2">எங்களுடன் தொடர்பு கொள்ள தயங்க.</string>
+    <string name="chattext3">வணக்கம் சொல்லுங்கள் ..</string>
+    <string name="chatbutton">அரட்டையடிக்கத் தொடங்குங்கள்</string>
+</resources>

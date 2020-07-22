@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TRANSPORTME</string>
+    <string name="about_us">About Us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">පළමු පිටුව</string>
+    <string name="experience">අත්දැකීම්</string>
+    <string name="kathabus">කතාබස් </string>
+    <string name="contactus">අප අමතන්න</string>
+    <string name="communicate">සන්නිවේදනය කරන්න</string>
+    <string name="share">බෙදාගන්න</string>
+    <string name="text1">බෙදාගන්න</string>
+    <string name="language">භාෂාව</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="start_h">ආරම්භය</string>
+    <string name="start">ආරම්භය</string>
+    <string name="destination_h">ගමනාන්තය</string>
+    <string name="destination">ගමනාන්තය</string>
+    <string name="date_h">දිනය</string>
+    <string name="date">දිනය</string>
+    <string name="search_bus">බස් රථ සෙවීම</string>
+    <string name="sub_title1">දුරගමන්සේවා බස්ආසන වෙන්</string>
+    <string name="sub_title2">කරගැනීමේ සේවාව</string>
+    <string name="booking">පොදු බස් වෙන්කරවා ගැනීම</string>
+    <string name="service">පුද්ගලික බස් වෙන්කරවා ගැනීම</string>
+    <string name="heading1">ඔබේ ටිකට්පත් අපෙන්</string>
+    <string name="heading2">ලබා ගන්න !!!</string>
+    <string name="result">සොයා ගත නොහැක</string>
+    <string-array name="cities">
+        <item>කුරුණෑගල</item>
+        <item>කුරුවිට</item>
+        <item>මාලබේ</item>
+        <item>මාතලේ</item>
+        <item>ත්රිකුණාමලය</item>
+        <item>අම්බලන්ගොඩ</item>
+        <item>යාපනය</item>
+        <item>මහනුවර</item>
+        <item></item>
+        <item>ගාල්ල</item>
+        <item>අම්පාර</item>
+        <item>නිට්ටඹුව</item>
+        <item>කොළඹ</item>
+        <item>කිරිබත්ගොඩ</item>
+        <item></item>
+        <item>පොළොන්නරුව</item>
+        <item>අනුරාධපුර</item>
+
+        <item>දෙහිවල</item>
+        <item>ගල්කිස්ස</item>
+        <item>මොරටුව</item>
+        <item>කෝට්ටේ</item>
+        <item>මීගමුව</item>
+        <item>වවුනියාව</item>
+        <item>මඩකලපුව</item>
+        <item>කටුනායක</item>
+        <item>දඹුල්ල</item>
+
+    </string-array>>
+    <string name="requird">ක්ෂේත්‍රය අවශ්‍යයි</string>
+    <string name="cno_val">වලංගු කාඩ්පත් අංකය ඇතුළු කරන්න</string>
+    <string name="cvv_val">අංක 3 ක් අවශ්‍යයි</string>
+    <string name="my_details">මගේ විස්තර</string>
+    <string name="Name">නම:</string>
+    <string name="Name_h">නම</string>
+    <string name="Mobile_No">දුරකථන අංකය:</string>
+    <string name="Mobile_No_h">ජංගම දුරකථන අංකය</string>
+    <string name="Passport_NIC_No">වි.ග.බ/ජා.හැ.අ:</string>
+    <string name="Passport_NIC_No_h">වි.ග.බ/ජා.හැ.අ</string>
+    <string name="Email">විද්යුත් තැපෑල:</string>
+    <string name="Email_h">විද්යුත් තැපෑල</string>
+    <string name="pay_now">දැන් ගෙවන්න</string>
+
+    <string name="payment_details">ගෙවීම් තොරතුරු</string>
+    <string name="card_no">කාඩ්පත් අංකය</string>
+    <string name="card_no_h">කාඩ්පත් අංකය</string>
+    <string name="cvv">CVV අංකය</string>
+    <string name="cvv_h">CVV අංකය</string>
+    <string name="amount">ගෙවිය යුතු මුදල</string>
+
+    <string name="check">සියලුම කොන්දේසි වලට එකඟ වෙමි.</string>
+
+    <string name="aboutus">අපි ගැන</string>
+    <string name="aboutus_h">පාරිභෝගික සතුට අපගේ ව්‍යාපාරයයි!</string>
+    <string name="p1">අප මෙහි පැමිණීමට හේතුව ඔබයි. අති නවීන තාක්‍ෂණය හා ශ්‍රී ලාංකික ආගන්තුක සත්කාරය සමඟ මිශ්‍ර වී අන්තර්ජාලය හරහා සුඛෝපභෝගී බස් වෙන්කරවා ගැනීම සමඟ වඩා හොඳ අත්දැකීමක් ලබා දීමට බස් සීට්.එල්ක් සැමවිටම උත්සාහ කරයි.</string>
+    <string name="p2">BusSeat.lk යනු ශ්‍රී ලංකාවේ ප්‍රථම වරට වෙන්කරවා ගැනීමේ හා වෙන්කිරීමේ සේවා සපයන්නෙකු වන අතර එය බස් කාලසටහනට අනුව සම්පුර්ණයෙන්ම ස්වයංක්‍රීය බහු වේදිකා වෙන්කරවා ගැනීමේ එන්ජිමක් ඇත. ශ්‍රී ලංකාව යනු පොදු ප්‍රවාහන සේවයේ දියුණුවක් ඇති රටකි. අපගේ නව්‍ය විසඳුම් සියලු ශ්‍රී ලාංකික මගීන් අතර ධනාත්මක
+බලපෑමක් ඇති කළ හැකි අතර, ඔවුන්ගේ වටිනාකම් එකතු කිරීමේ පොරොත්තු කාලය ඉවත් කිරීමෙන් මෙතැන් සිට වඩාත් ලාභදායී හා කාර්යක්ෂම ආකාරයකින් ගත කළ හැකිය.
+</string>
+
+    <string name="chat_name">නම</string>
+    <string name="chat_email">විද්යුත් තැපෑල</string>
+    <string name="chat_phone">දුරකතන අංකය</string>
+    <string name="message">පණිවිඩය</string>
+    <string name="chattext1">ආගන්තුකයෙකු නොවන්න</string>
+    <string name="chattext2">අප හා සම්බන්ධ වීමට නිදහස් වන්න.</string>
+    <string name="chattext3">ආයුබෝවන් කියන්න ..</string>
+    <string name="chatbutton">චැට් කිරීම ආරම්භ කරන්න</string>
+
+</resources>

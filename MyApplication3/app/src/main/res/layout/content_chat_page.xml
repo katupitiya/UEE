@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ChatPage"
+    tools:showIn="@layout/app_bar_chat_page">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="376dp"
+        android:layout_height="259dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="120dp"
+        android:alpha="0.2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.009"
+        app:srcCompat="@drawable/chatlogo" />
+
+    <EditText
+        android:id="@+id/txtbox_msg"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="304dp"
+        android:background="@drawable/textbox_design"
+        android:hint="@string/message"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+
+    <EditText
+        android:id="@+id/txtbox_phone"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="228dp"
+        android:background="@drawable/textbox_design"
+        android:hint="@string/chat_phone"
+        android:inputType="phone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <EditText
+        android:id="@+id/txtbox_email"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="148dp"
+        android:background="@drawable/textbox_design"
+        android:hint="@string/chat_email"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="247dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/chattext1"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/txtbox_name"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="47dp"
+        android:layout_marginLeft="47dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/textbox_design"
+        android:hint="@string/chat_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <Button
+        android:id="@+id/chat_btn"
+        android:layout_width="206dp"
+        android:layout_height="38dp"
+        android:layout_marginBottom="130dp"
+        android:layout_marginEnd="151dp"
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="120dp"
+        android:width="300dp"
+        android:background="@drawable/button"
+        android:capitalize="none"
+        android:text="@string/chatbutton"
+        android:textColor="@android:color/background_light"
+        android:textColorHint="#00FCF9F9"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.524"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbox_msg"
+        app:layout_constraintVertical_bias="0.848" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="90dp"
+        android:layout_marginRight="90dp"
+        android:layout_marginBottom="10dp"
+        android:width="300dp"
+        android:text="@string/chattext2"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtbox_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.252"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        app:layout_constraintVertical_bias="0.763" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="112dp"
+        android:gravity="center"
+        android:text="@string/chattext3"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/emailValid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="47dp"
+        android:layout_marginLeft="47dp"
+        android:layout_marginTop="1dp"
+        android:width="300dp"
+        android:textColor="@android:color/holo_red_dark"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbox_email" />
+
+    <TextView
+        android:id="@+id/msgValid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="44dp"
+        android:width="300dp"
+        android:textColor="@android:color/holo_red_dark"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbox_msg" />
+
+    <TextView
+        android:id="@+id/nameValid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="5dp"
+        android:width="300dp"
+        android:textColor="@android:color/holo_red_dark"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtbox_name" />
+
+</android.support.constraint.ConstraintLayout>

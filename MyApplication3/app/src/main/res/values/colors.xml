@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a063e</color>
+    <color name="colorPrimaryDark">#020725</color>
+    <color name="colorAccent1">#fffffe</color>
+    <color name="colorAccent">#020725</color>
+    <color name="colorBtn">#3090C7</color>
+    <color name="colortextbox">#000000</color>
+    <color name="colorButton">#0a063e</color>
+
+
+    <color name="black">#000</color>
+    <color name="violet">#9400D3</color>
+    <color name="indigo">#4B0082</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#f5b96a</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#fcf8eb</color>
+    <color name="green_light1">#73f046</color>
+    <color name="green_light2">#86fc5b</color>
+    <color name="purple1">#d7abed</color>
+    <!--<color name="pink1">#fc4793</color>-->
+    <color name="blue1">#e6e8fa</color>
+    <color name="pink1">#ff879d</color>
+    <color name="white1">#ffffff</color>
+    <!--<color name="pink1">#fc4793</color>-->
+    <!--<color name="white">#ffffff</color> previous-->
+    <!---->
+
+    <color name="chatboxColor">#8A2BE2</color>
+</resources>
